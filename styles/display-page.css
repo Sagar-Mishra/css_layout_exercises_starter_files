@@ -1,17 +1,28 @@
-.Big_one{
+.big_one{
 	font-size : 0px;
+	width: 800px;
+	height: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top : 200px;
 
+}
+
+.inner_box{
+	border: 1px solid black;
 }
 
 .upper{
-
+height: 200px;
+text-align: center;
 }
 
 .lower{
-
+height: 300px;
+text-align: center;
 }
 
-.upper-1{
+.upper-{
 
 }
 
@@ -28,5 +39,5 @@
 }
 
 .lower-3{
-	
+
 }
