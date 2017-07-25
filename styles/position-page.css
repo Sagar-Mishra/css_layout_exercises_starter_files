@@ -23,7 +23,9 @@ nav li::after{
 	height : 60px;
 	border-radius: 50%;
 	border: 1px solid black;
-
+	vertical-align: middle;
+	margin-top : 5px;
+	margin-bottom: 5px;
 }
 
 
