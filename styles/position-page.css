@@ -49,7 +49,7 @@ main {
   margin-top: 200px;
 }
 
-.cat, .dog {
+.cat, .pug {
 	position:absolute;
 	width:200px;
 	height: 200px;
@@ -60,7 +60,7 @@ main {
 	top:-100px;
 }
 
-.dog {
+.pug {
 	bottom:-100px;
 	right:-100px;
 }
